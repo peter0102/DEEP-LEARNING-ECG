@@ -1,0 +1,5 @@
+PROJET DEEP LEARNING - IPARAGUIRRE LIN GUIFFARD  
+Toutes les analyses et méthodes utilisées se trouvent dans le fichier projet.ipynb qui est un notebook.  
+Ce format a été choisi car il est pertinent pour ce projet : on peut y mêler code python et explications textes. De plus, les sorties des cellules sont persistentes (résultats, graphiques, ...) et peuvent être vues sans lancer le notebook, ce qui facilite sa lecture.  
+Le notebook peut néanmoins être lancé à nouveau pour entraîner à nouveau les modèles. Un effort a été fait pour que le code soit reproductible et lisible car c'est un aspect non négligeable en deep learning et c'est aussi un avantage qu'offre les notebooks.  
+Un rapport détaillé reprend les explications dans le notebook, et explique les motivations du projet ainsi que les décisions prises.
